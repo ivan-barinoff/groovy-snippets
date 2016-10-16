@@ -4,9 +4,9 @@ class Test {
     }
 
     static factorial(n) {
-        int sum = 1;
+        int sum = 1
         for (i in 2..n) {
-            sum *= i;
+            sum *= i
         }
         sum
     }
